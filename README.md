@@ -13,6 +13,7 @@ This is boilerplate for develop API
 ## What's in it
 - [LogViewer](https://github.com/ARCANEDEV/LogViewer)
 - [Laravel Passport](https://laravel.com/docs/9.x/passport)
+- [Laravel IDE Helper Generator](https://github.com/barryvdh/laravel-ide-helper)
 
 ## Code of Conduct
 
